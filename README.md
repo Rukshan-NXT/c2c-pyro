@@ -8,8 +8,8 @@ Copyright permission under MIT License
 ## Deploy
 
 ```sh
-git clone https://github.com/FayasNoushad/Channel-Auto-Post-Bot.git
-cd Channel-Auto-Post-Bot
+git clone https://github.com/Rukshan-NXT/c2c-pyro.git
+cd c2c-pyro
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
