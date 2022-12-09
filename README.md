@@ -1,6 +1,5 @@
 ```
 Made with Python3
-(C) @FayasNoushad
 Copyright permission under MIT License
 ```
 
